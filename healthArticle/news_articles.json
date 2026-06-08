@@ -1,0 +1,55 @@
+{
+  "articles": [
+    {
+      "title": "New Technology Improves Renewable Energy Storage",
+      "description": "Scientists have developed a new battery system that can store renewable energy more efficiently.",
+      "category": "Technology",
+      "date": "2026-06-08",
+      "source": "Global Tech News",
+      "key_points": [
+        "The battery can store energy for longer periods.",
+        "It could help reduce dependence on fossil fuels.",
+        "The technology is still being tested before commercial use."
+      ],
+      "impact": [
+        "Lower energy costs",
+        "Cleaner electricity production",
+        "Greater use of solar and wind power"
+      ]
+    },
+    {
+      "title": "New Public Transport Plan Announced",
+      "description": "The city has announced a new plan to improve public transport and reduce traffic congestion.",
+      "category": "Local News",
+      "date": "2026-06-07",
+      "source": "City Daily",
+      "key_points": [
+        "More buses will be added during peak hours.",
+        "New bike lanes will be built across the city.",
+        "Ticket prices will remain unchanged for now."
+      ],
+      "impact": [
+        "Shorter travel times",
+        "Less traffic in the city center",
+        "Lower pollution levels"
+      ]
+    },
+    {
+      "title": "Researchers Warn About Rising Sea Levels",
+      "description": "A new study suggests that coastal cities may need stronger protection against rising sea levels.",
+      "category": "Environment",
+      "date": "2026-06-06",
+      "source": "Science World",
+      "key_points": [
+        "Sea levels are increasing faster in some regions.",
+        "Coastal areas may face more frequent flooding.",
+        "Experts recommend investing in stronger infrastructure."
+      ],
+      "impact": [
+        "More attention to climate adaptation",
+        "Higher investment in flood protection",
+        "Greater awareness of environmental risks"
+      ]
+    }
+  ]
+}
